@@ -1,0 +1,41 @@
+.center {
+  text-align: center;
+}
+
+.lines {
+  border: 4mm ridge #FF2626;
+  border-width: thick;
+}
+
+body {
+  background-image: url(https://c.tenor.com/gQV5VzHLWQIAAAAd/among-us-sus.gif);
+  background-size: cover;
+}
+
+/*
+.au1 {
+  width: 200px
+}
+
+.au1:hover {
+    background-color: red;
+}
+
+.au1 {
+    width: 250px;
+    height: 250px;
+    background-image: url(../61d183753a856e0004c6334c.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.au1:active {
+    background-image: url(../imposter.jpg);
+}
+*/
+
+img {
+  width: 250px;
+  height: 250px;
+}
